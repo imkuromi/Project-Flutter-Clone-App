@@ -1,0 +1,7 @@
++ เขียนแหล่งที่มา
+	-https://github.com/mitchkoko/GroceryStoreApp.git
+
++ ชื่อ packages ที่ใช้ในโปรเจค
+	-cupertino_icons: ^1.0.2
+	-google_fonts: ^6.1.0
+	-flutter_lints: ^2.0.0
